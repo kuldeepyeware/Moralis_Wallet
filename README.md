@@ -1,5 +1,7 @@
 # Web3 Wallet Extension using React, Moralis API, Ethers.js
 
+https://user-images.githubusercontent.com/83532405/234899685-27e316e6-27cf-4d0e-8360-525e63998223.mp4
+
 This is a Web3 Wallet extension which is created with the help of following Youtube Video [Tutorial](https://youtu.be/2ZYtqX4rOAU) built with the following technologies:
 
 - <a href="https://react.dev/" target="_blank">React.js</a> - The library for web and native user interfaces
